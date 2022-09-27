@@ -8,12 +8,12 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-For better experience when using our service, we may ask you for certain authorizations: access to file storage. The information we ask for will not be kept by us or used.The application uses third -party services that can collect information used to identify you.
+For a better experience when using our service, we may collect certain information from you: device id. The information we request will not be retained by us or used. The app uses third-party services that may collect information used to identify you.
 
 ### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+Cookies are files containing a small amount of data that are commonly used as an anonymous unique identifier. These are sent to your browser from the website you are visiting and are stored in the internal memory of your devices.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+This Service does not explicitly use these “cookies”. The application cannot use cookies.
 
 ### Location Information  
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
@@ -31,7 +31,7 @@ We may employ third-party companies and individuals due to the following reasons
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
 ### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+We value your trust in providing us with your personal information, so we strive to use commercially acceptable means to protect it. We will use a data encryption protocol. But remember that no method of transmission over the Internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
 ### Children’s Privacy  
 This Services do not address anyone under the age of 3. We do not knowingly collect personal identifiable information from children under 3. In the case we discover that a child under 3 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
